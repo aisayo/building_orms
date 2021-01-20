@@ -1,0 +1,9 @@
+What is an ORM
+- object relational databases 
+- classes = tables 
+- instances = individual record in the database 
+
+Benefits ORM 
+- cuts down on repetitive code 
+- convention to follow
+
